@@ -1,5 +1,7 @@
 # Email Spam Classifier (Machine Learning + Streamlit App)
-![Email Spam Detector](Email Spam Detection.png)
+
+<img width="923" height="418" alt="Email Spam Detection" src="https://github.com/user-attachments/assets/4a715ab0-d59b-4163-a631-5feaa356b35d" />
+
 ## 📌 Project Description
 Developed a text classification system to detect spam emails and SMS using Natural Language Processing (NLP) and Machine Learning techniques. 
 The system processes text, applies tokenization, stopword removal, and stemming, then classifies messages as *Spam* or *Not Spam*. 
